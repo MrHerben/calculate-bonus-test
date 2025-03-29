@@ -1,0 +1,20 @@
+{
+    "base": {
+        "per_dollars": 10,
+        "bonus": 1
+    },
+    "additional": [
+        {
+            "name": "holiday bonus",
+            "type": "weekend",
+            "multiplier": 2,
+            "order": 1
+        },
+        {
+            "name": "vip boost",
+            "type": "vip",
+            "multiplier": 1.4,
+            "order": 2
+        }
+    ]
+}
